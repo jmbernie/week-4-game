@@ -1,8 +1,8 @@
       var targetNumber;
 
       var counter;
-      var gameWins;
-      var gameLosses;
+      var gameWins = 0;
+      var gameLosses = 0;
       var numberOptions = [];
       var crystalNumber;
 
@@ -13,8 +13,8 @@
 
 
       counter = 0;
-      gameWins = 0;
-      gameLosses = 0;
+      // gameWins = 0;
+      // gameLosses = 0;
       //$("#crystals").empty();
 
 
